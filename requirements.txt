@@ -1,0 +1,7 @@
+autopep8
+pylint
+selenium
+webdriver-manager
+pytest
+pytest-bdd
+behave
